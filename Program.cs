@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World2!");
 //Karlo radi brze
+// Popravija san ti kod
